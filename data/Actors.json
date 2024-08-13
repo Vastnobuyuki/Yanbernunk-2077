@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"1ZJ","characterIndex":0,"characterName":"1ZJ","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"1ZJ","traits":[],"initialLevel":1,"maxLevel":99,"name":"苦逼高中生","nickname":"","note":"","profile":"一个莫名其妙被传送到三中的普通人"},
+{"id":2,"battlerName":"HY","characterIndex":0,"characterName":"HUYAN","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"HUYAN","traits":[{"code":22,"dataId":0,"value":-0.5}],"initialLevel":1,"maxLevel":99,"name":"呼延博楠","nickname":"","note":"","profile":"早熟性英雄，前期队伍里的输出主力，\n后期建议及时更换高级武器"},
+{"id":3,"battlerName":"F","characterIndex":0,"characterName":"F","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"F","traits":[],"initialLevel":1,"maxLevel":99,"name":"付宇轩","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"HZ","characterIndex":0,"characterName":"HZ","classId":4,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"HZ","traits":[],"initialLevel":1,"maxLevel":99,"name":"王浩哲","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"WBH","characterIndex":0,"characterName":"WBH","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"WBH","traits":[],"initialLevel":1,"maxLevel":99,"name":"王铂涵","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
