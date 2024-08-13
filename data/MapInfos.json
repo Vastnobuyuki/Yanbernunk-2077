@@ -1,10 +1,10 @@
 [
 null,
 {"id":1,"expanded":true,"name":"传送之间","order":1,"parentId":0,"scrollX":811,"scrollY":513},
-{"id":2,"expanded":true,"name":"学校","order":2,"parentId":1,"scrollX":648.5,"scrollY":1118},
+{"id":2,"expanded":true,"name":"学校","order":2,"parentId":1,"scrollX":1132,"scrollY":719},
 {"id":3,"expanded":true,"name":"商业区","order":3,"parentId":2,"scrollX":869,"scrollY":541},
-{"id":4,"expanded":true,"name":"道具商店","order":4,"parentId":3,"scrollX":1139,"scrollY":699.5},
-{"id":5,"expanded":false,"name":"旅馆1F","order":5,"parentId":3,"scrollX":1139,"scrollY":699.5},
+{"id":4,"expanded":true,"name":"道具商店","order":4,"parentId":3,"scrollX":819,"scrollY":447},
+{"id":5,"expanded":false,"name":"旅馆1F","order":5,"parentId":3,"scrollX":832,"scrollY":640},
 {"id":6,"expanded":false,"name":"武器屋","order":6,"parentId":3,"scrollX":819,"scrollY":447},
 {"id":7,"expanded":false,"name":"防具屋","order":7,"parentId":3,"scrollX":819,"scrollY":447},
 {"id":8,"expanded":true,"name":"学校 走廊","order":8,"parentId":2,"scrollX":819,"scrollY":439},
@@ -15,5 +15,5 @@ null,
 {"id":13,"expanded":true,"name":"篮球场","order":16,"parentId":2,"scrollX":819,"scrollY":447},
 {"id":14,"expanded":false,"name":"摄影社","order":13,"parentId":8,"scrollX":819,"scrollY":447},
 {"id":15,"expanded":false,"name":"二号楼","order":14,"parentId":8,"scrollX":819,"scrollY":447},
-{"id":16,"expanded":false,"name":"MAP016","order":15,"parentId":8,"scrollX":1131,"scrollY":304.5}
+{"id":16,"expanded":false,"name":"MAP016","order":15,"parentId":8,"scrollX":819,"scrollY":447}
 ]
